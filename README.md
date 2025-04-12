@@ -1,3 +1,5 @@
+* Gestion de  Portfolio ​avec Reinforcement Learning (DQN, PPO, Hybrid)
+
 - Objectif du projet
 Ce projet vise à développer un agent intelligent capable de gérer dynamiquement un portefeuille financier en adaptant sa stratégie en fonction des conditions de marché.
 L’approche repose sur un Meta-Agent capable de choisir dynamiquement entre DQN (Deep Q-Learning) et PPO (Proximal Policy Optimization) selon la volatilité, la tendance du marché et d'autres indicateurs.
